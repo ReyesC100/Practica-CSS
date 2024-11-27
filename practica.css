@@ -1,0 +1,19 @@
+/* H3 0.1.0.0 */
+#unique-description-2 {
+    background: skyblue;
+    font-size: 50px;
+}
+
+/* H1 1.0.0.0* /
+Estilo en linea
+
+/* li !important */
+li {
+    font-size: 50px!important;
+    font-size: 100px;
+}
+
+/*p descripcion 2 0.0.0.1 */
+.wrapper_card p {
+    background: cyan;
+}
