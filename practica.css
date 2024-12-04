@@ -1,4 +1,7 @@
 /* H3 0.1.0.0 */
+body {
+    background: yellowgreen;
+}
 #unique-description-2 {
     background: skyblue;
     font-size: 50px;
@@ -13,7 +16,16 @@ li {
     font-size: 100px;
 }
 
+.Product_1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
 /*p descripcion 2 0.0.0.1 */
 .wrapper_card p {
-    background: cyan;
-}
+    display: flex;
+    justify-content: center;
+    background: cyan;}
+    
